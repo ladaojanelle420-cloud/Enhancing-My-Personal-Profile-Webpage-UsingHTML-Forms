@@ -1,0 +1,39 @@
+<h2>My Hobbies and Interests</h2>
+<table border="1">
+        <tr>
+  <nav>
+<a href="About me.html">About me</a> |
+<a href="Hobbies.html">My hobbies</a> |
+<a href="Goals.html">My goals</a> |
+<a href="Favorites.html">My Favorites</a> |      
+ </nav>
+            <th>Hobby</th>
+            <th>Why I Like It</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Playing Badminton</td>
+            <td>To relax and have fun</td>
+        </tr>
+        <tr>
+            <td>Playing Basketball</td>
+            <td>To stay healthy and active</td>
+        </tr>
+        <tr>
+            <td>Listening to Music</td>
+            <td>To stay motivated</td>
+        </tr>
+        <tr>
+            <td>Cooking</td>
+            <td>To learn new skills</td>
+        </tr>
+    </tbody>
+</table>
+    </ul>
+    <video width="400" controls>
+        <source src="2026-04-26-160230686.mp4">
+    </video>
+    <p>
+        This video is related to my hobbies and interests because it represents
+        one of the activities that I enjoy during my free time.
